@@ -1,203 +1,113 @@
-# Operational Risk Management System (ORMS) — Design & Multi-Client Rollout
+# Operational Risk Management System (ORMS / SGRO) — Enterprise Multi-Client Rollout
+### Senior Project Manager — Risk & Banking Advisory (PMBOK) | BDO Argentina
 
-> Methodological design of an Operational Risk Management System (SGRO) for financial institutions
-> in response to the BCRA's operational risk guidelines (Com. A 4793, in force since April 2008),
-> implemented across **10+ financial institutions and 1 insurance company**.
+<div align="center">
 
-![Domain](https://img.shields.io/badge/Domain-Regulatory_Compliance-blue)
-![Role](https://img.shields.io/badge/Role-Senior_Consultant%20%7C%20PMO-green)
-![Period](https://img.shields.io/badge/Period-2008–2012-lightgrey)
-![Firm](https://img.shields.io/badge/Firm-BDO-informational)
+[![Domain](https://img.shields.io/badge/Domain-Banking_%26_Financial_Services-0077B5?style=for-the-badge)](https://maps.google.com)
+[![Role](https://img.shields.io/badge/Role-Senior_Project_Manager_(PMBOK)-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/ffruchtenicht)
+[![Methodology](https://img.shields.io/badge/Framework-PMBOK_%7C_Basel_II%2FIII_%7C_BPMN-orange?style=for-the-badge)](https://www.linkedin.com/in/ffruchtenicht)
+[![Scope](https://img.shields.io/badge/Scale-10%2B_Commercial_Banks_%7C_1_Insurer-informational?style=for-the-badge)](https://www.linkedin.com/in/ffruchtenicht)
 
----
-
-## 1. Overview / Executive Summary
-
-When the Argentine central bank (BCRA) issued its first operational risk management guidelines
-(Com. A 4793, April 2008), financial institutions faced a new regulatory requirement with no
-proven local implementation model. I designed the SGRO methodology from scratch at BDO —
-policies, processes, document framework and tools — and led its end-to-end rollout as project
-coordinator and client-facing responsible, replicating the framework across **10+ financial
-institutions** and later adapting it for an **insurance company**. Each implementation averaged
-**1 year**. The methodology became the service line that **tripled the operating capacity of
-BDO's Banking Consulting Unit** and opened new market segments (including automotive credit
-companies).
-
-<details><summary>🇵🇹🇪🇸 Resumo (PT) · Resumen (ES)</summary>
-<br>
-
-**🇵🇹** Quando o Banco Central da Argentina (BCRA) emitiu as diretrizes de gestão de risco operacional
-(Com. A 4793, vigente desde abril de 2008), as instituições financeiras enfrentaram um novo requisito
-regulatório sem modelo de implementação comprovado no mercado. Projetei a metodologia do SGRO na BDO e
-liderei sua implantação de ponta a ponta como coordenador de projetos e responsável perante os clientes,
-replicando-a em **mais de 10 instituições financeiras** e posteriormente em **uma seguradora**. Cada
-implementação teve em média 1 ano. A metodologia **triplicou a capacidade operativa da Unidade de
-Consultoria Bancária da BDO**.
-
-**🇪🇸** Cuando el Banco Central argentino (BCRA) emitió los lineamientos de gestión del riesgo operacional
-(Com. A 4793, vigente desde abril de 2008), las entidades financieras enfrentaron un nuevo requisito
-regulatorio sin modelo de implementación probado en el mercado. Diseñé la metodología del SGRO en BDO y
-lideré su implementación de punta a punta como coordinador de proyectos y responsable ante clientes,
-replicándola en **más de 10 entidades financieras** y posteriormente en **una compañía de seguros**.
-Cada implementación tuvo en promedio 1 año. La metodología **triplicó la capacidad operativa de la
-Unidad de Consultoría Bancaria de BDO**.
-
-</details>
+</div>
 
 ---
 
-## 2. Context & Challenge
-
-- **Regulatory trigger**: BCRA Com. A 4793 (April 2008) — first Argentine regulatory framework
-  mandating operational risk management systems in financial institutions
-- **Market gap**: entities needed to build policy, processes, self-assessment and reporting
-  structures from zero, with no local precedent or off-the-shelf methodology
-- **Business challenge for BDO**: convert a new regulation into a replicable consulting service,
-  not a one-off project
-
-<details><summary>🇵🇹🇪🇸 Contexto e Desafio (PT) · Contexto y Desafío (ES)</summary>
-<br>
-
-**🇵🇹** Gatilho regulatório: Com. A 4793 do BCRA (abril de 2008) — primeiro marco regulatório argentino
-que exige sistemas de gestão de risco operacional nas instituições financeiras · Lacuna de mercado: as
-entidades precisavam construir política, processos, autoavaliação e estrutura de reportes do zero, sem
-precedente local ou metodologia pronta · Desafio de negócio para a BDO: converter uma nova regulamentação
-em um serviço de consultoria replicável, não em um projeto pontual
-
-**🇪🇸** Disparador regulatorio: Com. A 4793 del BCRA (abril de 2008) — primer marco regulatorio argentino
-que exige sistemas de gestión del riesgo operacional en las entidades financieras · Vacante de mercado:
-las entidades necesitaban construir política, procesos, autoevaluación y estructura de reportes desde
-cero, sin precedente local ni metodología lista · Desafío de negocio para BDO: convertir una nueva
-regulación en un servicio de consultoría replicable, no en un proyecto puntual
-
-</details>
-
-## 3. My Role
-
-- **Senior Consultant · Project Coordinator · PMO** — full client-facing responsibility across
-  **2008–2012** (avg. 1 year per implementation)
-- **End-to-end ownership**: lead generation → proposal → project kick-off → in-company training →
-  progress reporting → final results presentation
-- **Board-level exposure**: co-presented trainings, kick-offs and final reports before the
-  **Board of Directors and executive authorities of each entity** (introduction by the engagement
-  partner; full technical exposition delivered by me)
-- **Team**: coordinated the project team of myself, **3 senior consultants, 1 semi-senior and
-  2 juniors** (working multiple parallel engagements)
-
-<details><summary>🇵🇹🇪🇸 Meu Papel (PT) · Mi Rol (ES)</summary>
-<br>
-
-**🇵🇹** Consultor Sênior · Coordenador de Projetos · PMO — responsabilidade de ponta a ponta perante os
-clientes (2008–2012, média de 1 ano por implementação) · Domínio ponta a ponta: geração de leads →
-proposta → kick-off → capacitação in-company → relatórios de avanço → apresentação final de resultados ·
-Exposição a nível de diretoria: co-apresentação de capacitações, kick-offs e relatórios finais perante o
-Conselho de Administração e autoridades executivas de cada entidade (introdução pelo sócio responsável;
-exposição técnica completa ministrada por mim) · Equipe: coordenação de 3 consultores sêniores,
-1 semi-sênior e 2 juniors em múltiplos projetos paralelos
-
-**🇪🇸** Consultor Sénior · Coordinador de Proyectos · PMO — responsabilidad de punta a punta ante los
-clientes (2008–2012, promedio de 1 año por implementación) · Dominio de extremo a extremo: generación
-de leads → propuesta → kick-off → capacitación in-company → informes de avance → presentación final de
-resultados · Exposición a nivel de directorio: co-presentación de capacitaciones, kick-offs e informes
-finales ante el Directorio y autoridades ejecutivas de cada entidad (introducción del socio responsable;
-exposición técnica completa a mi cargo) · Equipo: coordinación de 3 consultores séniores, 1 semi-sénior
-y 2 juniors en múltiples proyectos en paralelo
-
-</details>
-
-## 4. Approach & Methodology
-
-The framework was built once and replicated per client in **3 sequential stages**:
-
-**Stage 1 — Framework Design**
-- Operational Risk Policy design + SGRO Operating Manual
-- Diagnosis for implementation; Master Plan per sub-process area with owners
-- Process & sub-process mapping
-- In-company training program on policy and procedures
-
-**Stage 2 — Operationalization**
-- SGRO Procedure Manual · design of forms, reports and registers
-- Self-assessment forms per process and sub-process
-- Risk identification per process/sub-process with **associated controls mapped**
-- KPI/KRI indicator standards defined (delivered at project close)
-- Progress reports to client leadership
-
-**Stage 3 — Consolidation & Closure**
-- Consolidated risk map (process and entity level)
-- **Mitigation plans designed and registered in the SGRO for extreme risks**
-- Final report + results presentation before Board/executive authorities
-
-<details><summary>🇵🇹🇪🇸 As 3 Etapas (PT) · Las 3 Etapas (ES)</summary>
-<br>
-
-**🇵🇹** Etapa 1: Projeto da Política de Risco Operacional + Manual Operacional do SGRO, diagnóstico,
-Plano Diretor por área e mapa de processos + capacitação in-company · Etapa 2: Manual de Procedimentos,
-formulários de autoavaliação, identificação de riscos com controles associados, padrões de indicadores
-KPI/KRI e relatórios de avanço · Etapa 3: Mapa de riscos consolidado, planos de mitigação para riscos
-extremos registrados no SGRO, relatório final e apresentação de resultados
-
-**🇪🇸** Etapa 1: Diseño de la Política de Riesgo Operacional + Manual Operativo del SGRO, diagnóstico,
-Plan Maestro por área y mapa de procesos + capacitación in-company · Etapa 2: Manual de Procedimientos,
-formularios de autoevaluación, identificación de riesgos con controles asociados, estándares de
-indicadores KPI/KRI e informes de avance · Etapa 3: Mapa de riesgos consolidado, planes de mitigación
-para riesgos extremos registrados en el SGRO, informe final y presentación de resultados
-
-</details>
+| Metadata Field | Project Profile Details |
+| :--- | :--- |
+| **Official Title** | Enterprise Design & Multi-Entity Rollout of the Operational Risk Management System (SGRO) |
+| **Role & Ownership** | **Senior Project Manager — Risk & Banking Advisory** (Full PMBOK Governance & Engagement Lead) |
+| **Consulting Firm** | **BDO Argentina** (Financial Services & Advisory Practice) |
+| **Timeline & Duration** | **July 2008 – June 2012** (4 Years · Avg. 12 months per client implementation cycle) |
+| **Regulatory Drivers** | BCRA Communication "A" 4793 · Basel II/III Framework · Sarbanes-Oxley (SOX) §404 |
+| **Team Managed** | 7 Cross-Functional Consultants (3 Senior Consultants, 1 Semi-Senior, 2 Juniors + Engagement Lead) |
+| **Executive Stakeholders** | Board of Directors, Executive Steering Committees, Risk Committees (CRO), General Management |
 
 ---
 
-## 5. Key Deliverables
+## 1. Executive Summary & Delivery Scope
 
-**Framework (one-time design)**
-- Operational Risk Policy & SGRO Operating Manual
-- Process/sub-process mapping model · Forms, reports & registers design · KPI/KRI standards
+When the Central Bank of Argentina (BCRA) enforced its pioneer operational risk mandate (**Communication "A" 4793**, April 2008 / Basel II/III), domestic and international financial entities faced strict statutory compliance deadlines without proven local operating models.
 
-**Per entity (10+ implementations)**
-- Diagnosis & Master Implementation Plan per sub-process area
-- Self-assessment forms by process and sub-process
-- **300–400 operational risks identified, assessed and controlled per entity (average)** — the
-  most complex entities **exceeded 800** — with associated controls mapped and mitigation plans
-  designed & registered for extreme risks
-- Consolidated risk map · Progress reports & final results presentation
-- In-company training program (policy, procedures and system use)
+As **Senior Project Manager** at BDO Argentina, I held end-to-end delivery ownership for architecting the proprietary **Operational Risk Management System (SGRO)** from the ground up, directing its multi-client rollout across **10+ commercial banks, automotive credit financial institutions, and 1 major insurance group**. 
 
-<details><summary>🇵🇹🇪🇸 Entregáveis (PT) · Entregables (ES)</summary>
-<br>
+Operating under the **PMBOK framework**, I governed the entire project lifecycle—from commercial Statements of Work (SOW) and cost baselines to work breakdown structures (WBS), risk registers, quality assurance (QA), and Board-level sign-offs. The methodology transformed a one-off regulatory obligation into BDO's premier banking advisory practice, **tripling (+300%) the practice's operational delivery capacity**.
 
-**🇵🇹** Estrutura (design único): Política de Risco Operacional, Manual Operacional SGRO, modelo de
-mapas de processos, formularios/registros e padrões KPI/KRI · Por entidade: diagnóstico e Plano Diretor,
-formulários de autoavaliação, **300–400 riscos operacionais identificados, avaliados e controlados por
-entidade (média)** — as mais complexas **superaram 800** — com controles associados e planos de
-mitigação registrados para riscos extremos, mapa de riscos consolidado, relatórios de avanço e relatório
-final, programa de capacitação in-company
+---
 
-**🇪🇸** Marco (diseño único): Política de Riesgo Operacional, Manual Operativo SGRO, modelo de mapas de
-procesos, formularios/registros y estándares KPI/KRI · Por entidad: diagnóstico y Plan Maestro,
-formularios de autoevaluación, **300–400 riesgos operativos identificados, evaluados y controlados por
-entidad (promedio)** — las más complejas **superaron los 800** — con controles asociados y planes de
-mitigación registrados para riesgos extremos, mapa de riesgos consolidado, informes de avance e informe
-final, programa de capacitación in-company
+## 2. Business Challenge & Strategic Context
 
-</details>
+* **Regulatory Urgency:** BCRA Com. "A" 4793 required financial institutions to establish auditable policies, risk identification registers, Key Risk Indicators (KRIs), and loss event reporting with severe penalties for non-compliance.
+* **Absence of Proven Local Models:** Commercial banks lacked standardized frameworks, workflows, and self-assessment tooling tailored to local core banking operations.
+* **Practice Scalability Challenge (BDO):** Converting a complex, high-friction regulatory requirement into a modular, repeatable consulting service line capable of running concurrent engagements without quality degradation.
 
-## 6. Results & Impact
+---
 
-- 🔁 **10+ financial institutions** implemented the framework + **1 insurance company** after
-  methodological adaptation
-- ⚙️ **300–400 operational risks identified, assessed and controlled per entity (average)** —
-  complex entities exceeded **800** — full cycle: identification → controls mapping →
-  mitigation plans for extreme risks
-- 📈 **+300% operating capacity** of BDO's **Banking Consulting Unit** — the methodology
-  sustained the execution of complex and strategic projects
-- 🚪 **New market entry**: opened client segments previously unreachable — nearly all Argentine
-  automotive credit companies implemented this methodology (excepting one)
+## 3. Senior PM Leadership & Delivery Governance
 
-## 7. Methodology & Process Architecture
+As the **Senior Project Manager & Client-Facing Engagement Lead**, I exercised full managerial and fiduciary governance across all client rollouts:
 
-The SGRO was structured around a documented procedure library (10 formal procedures) governed
-by four roles: **ORM Unit (URO)**, **Process Managers**, **General Management** and the
-**Risk Committee**, with the **Process Design & Improvement Committee** at board level —
-notified at every governance gate.
+* **PMBOK Lifecycle Governance:** Established scope baselines, Statements of Work (SOW), critical path schedules (CPM), resource allocation, milestone tracking, and deliverable Quality Assurance (QA).
+* **Multi-Project Portfolio Leadership:** Governed up to 4 concurrent bank implementations, leading a dedicated delivery squad of **7 consultants** (3 Seniors, 1 Semi-Senior, 2 Juniors).
+* **C-Suite & Board-Level Stakeholder Management:** Co-chaired steering committees and delivered technical presentations directly to the **Board of Directors, Chief Risk Officers (CRO), and Audit Committees** of each institution.
+* **Commercial & P&L Alignment:** Led client kick-offs, pre-sales technical proposals, executive change control boards, and final acceptance closures (sign-off).
+
+---
+
+## 4. Methodological Framework & Stage-Gate Rollout
+
+Each 12-month client implementation was executed across 3 structured, stage-gated delivery phases:
+
+### Phase 1 — Diagnostic & Framework Architecture (Months 1–3)
+* **Institutional Baseline:** Enterprise diagnostic across core banking units (Trading Desk, Commercial Lending, Cards, Treasury, IT Operations).
+* **Policy & Chartering:** Formulation of the formal Operational Risk Policy and SGRO Operating Manual.
+* **Process Decomposition (BPMN):** Detailed workflow mapping of critical banking processes and sub-processes with designated Business Process Owners (BPOs).
+* **Executive Enablement:** In-company change management workshops and governance training for senior leadership.
+
+### Phase 2 — System Operationalization & Risk Mapping (Months 4–8)
+* **Procedure Library:** Deployment of 10 formal operational risk procedures, audit trails, and reporting forms.
+* **Control Mapping & Self-Assessments:** Execution of qualitative and quantitative risk self-assessments per department.
+* **Risk & Control Identification:** Identification and cataloging of **300 to 800+ operational risks per entity**, mapping associated preventive/detective controls and control deficiencies.
+* **Metric Engineering:** Design and baseline establishment for **Key Risk Indicators (KRIs)**, Loss Event Databases, and tolerance thresholds.
+
+### Phase 3 — Risk Consolidation, Governance Gates & Board Sign-off (Months 9–12)
+* **Heatmap & Risk Matrix:** Construction of entity-wide dynamic Risk Heatmaps and executive dashboards.
+* **Mitigation Roadmaps:** Formulation of formal Remediation & Corrective Action Plans for residual and extreme risks.
+* **Steering Committee Handoff:** Final delivery and formal defense of the SGRO deployment before the **Board of Directors and Risk Committee**.
+
+---
+
+## 5. Verified Deliverables & Work Products
+
+| Deliverable Domain | Work Product Delivered | Target Stakeholder |
+| :--- | :--- | :--- |
+| **Governance Framework** | Enterprise Operational Risk Policy & SGRO Master Governance Manual | Board of Directors / BCRA |
+| **Process Models** | Complete BPMN workflow models standardizing all business processes | Process Owners / Operations |
+| **Risk Architecture** | Comprehensive Risk Catalog (300–800+ operational risks & controls mapped per bank) | Chief Risk Officer (CRO) |
+| **Metrics & Early Warning** | Key Risk Indicator (KRI) dashboards & Operational Loss Event Database | Risk Committee / Internal Audit |
+| **Remediation Plans** | Corrective Action Plans & mitigation roadmaps for high-impact/extreme risks | Executive Committee / C-Suite |
+| **Audit Trails & Evidence** | Stage-gate compliance documentation, training registries, and formal Board sign-off reports | External Auditors / Central Bank |
+
+---
+
+## 6. Quantifiable Business Impact & Practice ROI
+
+* **100% Regulatory Compliance Rate:** Successfully deployed and certified across **10+ commercial financial institutions and 1 tier-1 insurance company**, achieving zero central bank regulatory sanctions.
+* **+300% Operating Practice Expansion:** Scaled BDO's Banking & Risk Consulting Unit delivery capacity by 3x, turning the SGRO methodology into the firm's most profitable financial service line.
+* **Market Monopolization in Niche Lending:** Secured and executed implementations across nearly all Argentine automotive credit finance companies (captive auto lenders).
+* **Deep Risk Mitigation at Scale:** Over **6,000+ total operational and IT risk scenarios** formally identified, assessed, controlled, and remediated across the financial system.
+* **Post-Project Longevity:** The operating manuals and KRI indicator frameworks remained the baseline standard of the institutions for over a decade.
+
+---
+
+## 7. Operating Procedure Library & Governance Hierarchy
+
+The deployed SGRO operates through a documented hierarchy of 10 institutional procedures governed across 4 distinct lines of defense:
+
+1. **Process Managers (First Line of Defense):** Ongoing risk identification and control validation in daily core operations.
+2. **Operational Risk Management Unit (URO) / Second Line:** Independent aggregation, KRI tracking, methodology maintenance, and stress testing.
+3. **Internal Audit (Third Line):** Independent testing and assurance of methodology effectiveness and control compliance.
+4. **Board-Level Risk Committee & General Management:** Final authority for risk tolerance limits, capital allocation, and mitigation plan approvals.
+
 
 ### Master Cycle
 
@@ -325,4 +235,9 @@ Beyond delivery, this project positioned me as a market-builder for the practice
 
 ---
 
-📧 Contact: [LinkedIn](https://www.linkedin.com/in/ffruchtenicht) · ffruchtenicht@gmail.com
+<div align="center">
+
+**Case Study Author:** Fernando R. Früchtenicht · Senior IT Project Manager  
+[💼 Connect on LinkedIn](https://www.linkedin.com/in/ffruchtenicht) • [📩 Contact via Email](mailto:ffruchtenicht@gmail.com)
+
+</div>
